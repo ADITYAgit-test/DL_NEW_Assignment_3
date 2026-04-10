@@ -1,3 +1,4 @@
+
 __pycache__/
 *.pyc
 *.pth
@@ -11,3 +12,4 @@ datasets/
 *.jpg
 *.jpeg
 *.zip
+.qwen/
