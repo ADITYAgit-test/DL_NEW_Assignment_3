@@ -1,0 +1,8 @@
+{
+  "fid_score": 105.44916622764003,
+  "inception_score_proxy": 0.07538647516561175,
+  "mean_pixel_variance": 0.07725170478224755,
+  "num_images": 15,
+  "num_generated_images": 15,
+  "evaluation_device": "cuda"
+}
